@@ -17,7 +17,7 @@ This project utilizes Python to analyze literacy data in India.
 
 **Instructions:**
 1. Install dependencies: Open a terminal or command prompt and run the following commands for the required libraries:
-pip install pandas matplotlib numpy #Houwever, Numpy is pre installed with pandas itself
+pip install pandas matplotlib numpy #However, Numpy is pre installed with pandas itself
 2. Use code with caution.
 3. content_copy
 4. Run the analysis: Execute the Python script:
