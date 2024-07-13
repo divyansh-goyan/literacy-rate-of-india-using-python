@@ -8,27 +8,20 @@ This project utilizes Python to analyze literacy data in India.
 2. "lr.py": This Python script performs analysis on the literacy rate data. It's recommended to include detailed comments within lr.py to explain each step of the analysis.
 
 **Requirements:**
-- Python 3 (https://www.python.org/downloads/)
+- Python 3.xx.x (https://www.python.org/downloads/)
+- All below packages must be needed
 
 **Necessary Python libraries (depending on your analysis needs):**
-- pandas (data manipulation): "pip install pandas"
-- matplotlib (visualization): "pip install matplotlib"
-- NumPy (numerical computations): "pip install numpy"
+• pandas (data manipulation): "pip install pandas"
+• matplotlib (visualization): "pip install matplotlib"
+• NumPy (numerical computations): "pip install numpy"
 
-**Instructions:**
-1. Install dependencies: Open a terminal or command prompt and run the following commands for the required libraries:
-pip install pandas matplotlib numpy #However, Numpy is pre installed with pandas itself
-2. Use code with caution.
-3. content_copy
-4. Run the analysis: Execute the Python script:
-
-**Further Exploration:**
-1. Modify lr.py to explore different aspects of the data, such as:
-    - Trends over time
-    - Variations across regions
-    - Correlations with other factors (e.g., GDP, gender equality)
-    - Consider visualizing the data using libraries like matplotlib or seaborn.
-    - Add comments and documentation to "lr.py" for better understanding.
+- A CSV file named "literacy_rate.csv" is needed.
+  
+**INSTRUCTIONS ON HOW TO RUN THE FILE**
+1. Download all required file.
+2. Keep in mind that csv and python file must be in same folder or directory otherwise it will NOT work.
+3. After downloading and setting up the above mentioned requirment run the python file.
 
 **Additional Notes:**
 
